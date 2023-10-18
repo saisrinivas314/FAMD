@@ -1,0 +1,2 @@
+python FAMD.py
+pause
